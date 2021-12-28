@@ -687,6 +687,12 @@ input[type="radio"]+label:before {
   border-radius: 100%;
 }
 
+.circular2 {
+  position: relative;
+  top: 51px;
+  border-radius: 100%;
+}
+
 @media screen and (max-width: 736px) {
   .image.main {
     margin: 2rem 0;
@@ -711,8 +717,13 @@ input[type="radio"]+label:before {
   margin-right: auto;
   table-layout: fixed;
   width: 800px;
-}
 
+}
+.length2 {
+
+  position: relative;
+  bottom: 30px;
+}
 
 .row {
     margin: auto;
